@@ -1,6 +1,6 @@
 Project Setup Steps:
--Node Modules:
 
+-Node Modules:
 Upon creating the React app, node modules are automatically added. Ensure that they are present, even though they might be listed in the .gitignore file.
 Navigate to Project Directory:
 
