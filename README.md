@@ -1,13 +1,22 @@
-spotify searcher using reactjs
-This project uses spotify api to fetch details about the artist
-when the search button is pressed there is api call which fetches the details.
-On inspecting the code one can see the details of api call
-i.e release date,album name and other details
-It also has the url of the song which can be used to access
-React server is set on localhost 3000
-bootstrap modules have been downloaded and path has been given
+Project Setup Steps:
+-Node Modules:
 
-Steps to run the project:
-1)on creating react app,node modules are added.But here they are in .gitignore files
-2)move to the directory i.e here it is D:/PROJECTS/react_pro/spotify
-3)npm start
+Upon creating the React app, node modules are automatically added. Ensure that they are present, even though they might be listed in the .gitignore file.
+Navigate to Project Directory:
+
+Move to the project directory using the terminal or command prompt. In your case, it's D:/PROJECTS/react_pro/spotify.
+Start React Server:
+
+Run the following command to start the React server:
+npm start
+The React server will be hosted on localhost:3000.
+
+Bootstrap Modules:
+Bootstrap modules have been downloaded for styling. Ensure that they are installed. If not, run the following command:
+npm install react-bootstrap bootstrap
+
+API Call Details:
+Inspect the code to see the details of the API call, including release date, album name, and other relevant information.
+
+Accessing the Application:
+Visit localhost:3000 in your web browser to access the React application.
